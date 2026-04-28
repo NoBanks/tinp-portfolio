@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/afbc3722-f58c-4c87-a9a1-f8cc538d657e
 
 https://github.com/user-attachments/assets/5a7ec9c1-4429-4d37-bc5a-0b414573babf
 
-**The agentic cinematic gallery (the cathedral, not the marketplace):**
+**The agentic gallery:**
 
 https://github.com/user-attachments/assets/7e4c55e2-ca90-45ed-9e6e-c7e7c029a342
 
