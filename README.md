@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/afbc3722-f58c-4c87-a9a1-f8cc538d657e
 
 **The architecture of latent intent (system blueprint):**
 
-https://github.com/user-attachments/assets/c1b56a5e-02b1-422c-a7a1-b8bf6359ffb1
+https://github.com/user-attachments/assets/5a7ec9c1-4429-4d37-bc5a-0b414573babf
 
 **The agentic gallery:**
 
