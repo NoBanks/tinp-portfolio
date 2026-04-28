@@ -22,7 +22,7 @@ Three short deck videos with original NoBanks music.
 
 https://github.com/user-attachments/assets/afbc3722-f58c-4c87-a9a1-f8cc538d657e
 
-**The agentic cathedral, deeper:**
+**The architecture of latent intent (system blueprint):**
 
 https://github.com/user-attachments/assets/c1b56a5e-02b1-422c-a7a1-b8bf6359ffb1
 
