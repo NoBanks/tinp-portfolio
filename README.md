@@ -20,15 +20,15 @@ Three short deck videos with original NoBanks music.
 
 **The agentic cathedral, top-line:**
 
-<!-- DROP-VIDEO-1 -->
+https://github.com/user-attachments/assets/afbc3722-f58c-4c87-a9a1-f8cc538d657e
 
 **The agentic cathedral, deeper:**
 
-<!-- DROP-VIDEO-2 -->
+https://github.com/user-attachments/assets/c1b56a5e-02b1-422c-a7a1-b8bf6359ffb1
 
 **The agentic gallery:**
 
-<!-- DROP-VIDEO-3 -->
+https://github.com/user-attachments/assets/7e4c55e2-ca90-45ed-9e6e-c7e7c029a342
 
 ---
 
